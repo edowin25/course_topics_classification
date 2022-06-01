@@ -65,7 +65,7 @@ This project aims to automate the process of classifying the course titles to th
 <p align="left">(<a href="#top">back to top</a>)</p>
 
 
-<!-- GETTING STARTED -->
+<!-- GETTING STARTED 
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
@@ -96,4 +96,4 @@ This is an example of how to list things you need to use the software and how to
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
+-->
